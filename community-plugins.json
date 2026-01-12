@@ -18990,4 +18990,11 @@
     "description": "Automate frontmatter updates using conditional rules (IF/THEN).",
     "repo": "diegoeis/obsidian-conditional-properties"
   }
+  {
+    "id": "marklog-obsidian",
+    "name": "Marklog",
+    "author": "PROCPA",
+    "description": "Convert Markdown to Naver Blog HTML with customizable styles.",
+    "repo": "procpalee/Marklog"
+  }
 ]
